@@ -1,0 +1,2 @@
+# Wordpress
+Wordpress installtion script 
